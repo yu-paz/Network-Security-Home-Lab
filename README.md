@@ -6,4 +6,4 @@ This repository showcases my cybersecurity home lab projects, these labs include
 
 Table Of Contents:
 
-1. [System Administration Fundamentals](System%20Administration%20Fundamentals.md)
+1. [System Administration Fundamentals](System%20Administration%20Fundamentals%20(1).md)
